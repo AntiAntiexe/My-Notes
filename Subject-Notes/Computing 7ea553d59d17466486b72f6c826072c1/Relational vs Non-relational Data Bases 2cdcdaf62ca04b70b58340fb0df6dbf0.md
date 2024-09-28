@@ -15,7 +15,7 @@
 - They support ACID (atomicty, consistency, isolation and durability, which leaves the database in a valid state) transactional consistency. And supports joins ( a command clause that combines records from two or more tables in a database. It is a means of combining data in fields from two tables by using values common to each table).
 - They come with built-in data integrity and a large eco-system.
     
-    [Data Integrity](Data%20Integrity%20108b7c5a9ed080218253c7f68c5570c0.md)
+    [Data Integrity](Data%20Integrity.md)
     
 - Relationships in this system have constraints
 - There is limitless indexing. Strong SQL.

@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "50efbe0fcebc27f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1971e23bdd85f1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b6b5ab7de06fea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41d86e5ccc26504a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3697b6b1ac3da30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd5359f439f8982b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d1834afa5086346",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fca680e6a4077020",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c09976b840322dfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cc2dd496f38f28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c561047e6eebcb86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d2dc8cbd243e112",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0704b7ca408bd37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5dd72c01c04c8b65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "36b6b5ab7de06fea",
+  "lastOpenFiles": [
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Notation.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/NoSQL.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multiplying Vectors.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multiple Regression.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multi-Dimensional Arrays.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Mean, Median and Mode.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Mathematical Operators with Tensors.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Lists and Dictionaries.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Join (SQL).md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Introduction to C++.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Intro to regression.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Indentation.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/If Else Statements c++.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/If Else Statements.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Graph Theory.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Graph Definitions.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Functions.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/For Loops and While Loops.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/For Loop.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Extract, transform, load.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data types.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data Integrity.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data Frames.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Arrays.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Addition of Vectors.md",
+    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Accessing Data from Tensors.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/How does Light Travel 104b7c5a9ed080bba812f49b62470b2f/image.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses 104b7c5a9ed080fc9af8f7e00dc9f42f/image.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/How the brain talks c77e64736941466d92eacadc082ffd41/Untitled.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb/image.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb/image 3.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb/image 2.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb/image 1.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Reflection 104b7c5a9ed080df895afe7786e4e4c7/image.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Properties of Waves 51a10093edce4380a6212f479d732c19/image.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses 104b7c5a9ed080fc9af8f7e00dc9f42f/image 1.png",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/What’s in your sleep e0cf1a9b206d4023bbea5944f15e27a0",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/How the brain talks c77e64736941466d92eacadc082ffd41",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Reflection 104b7c5a9ed080df895afe7786e4e4c7",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Properties of Waves 51a10093edce4380a6212f479d732c19",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses 104b7c5a9ed080fc9af8f7e00dc9f42f",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/How does Light Travel 104b7c5a9ed080bba812f49b62470b2f",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Past Exams 5e9e0b2546924338a9f7148b92d8e4bc/2022_Further_Maths_Exam_1_solutions.docx.pdf",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Past Exams 5e9e0b2546924338a9f7148b92d8e4bc/2022_Further_Maths_Exam_1.docx.pdf",
+    "Subject-Notes/Humanities e95f3d5fba3e44b0833425f1c7301642/Small Business 22799cbfb18748629278a612491553fc"
+  ]
+}
