@@ -6,7 +6,7 @@
 - Every data frame contains a blueprint, known as a schema, which defines the name and data type of each column.
 - Data frames are essentially a collection of series.
     
-    [Series](Series%207d73d6d23fe345a3b86a15abad09baed.md)
+    [Series](Series.md)
     
 
 ## Spreadsheets vs Data Frame

@@ -1,6 +1,6 @@
 # Psychology
 
-[About this page](Psychology%207518462e91c34c52a94dd6c0c8f4a83e/About%20this%20page%200426341d020d4775aca97bf2c2c76c98.md)
+[About this page](About%20this%20page.md)
 
 - Year 10
     - Inside our brain
@@ -15,13 +15,13 @@
         
         [Neurohormones](Psychology%207518462e91c34c52a94dd6c0c8f4a83e/Neurohormones%20946e9f61ed834d2fbe394e7a4bf93945.md)
         
-        [Answers](Psychology%207518462e91c34c52a94dd6c0c8f4a83e/Answers%207d4b1965502e45bc84176cfdb467bcad.md)
+        [Answers](Answers.md)
         
     - Addiction
         
-        [Creation of an Addiction](Psychology%207518462e91c34c52a94dd6c0c8f4a83e/Creation%20of%20an%20Addiction%2023421b8be5214584aed6a36074c6a852.md)
+        [Creation of an Addiction](Creation%20of%20an%20Addiction.md)
         
-        [Alcohol](Psychology%207518462e91c34c52a94dd6c0c8f4a83e/Alcohol%20528054c6fd094e78877174bdd33ecc87.md)
+        [Alcohol](Alcohol.md)
         
     - Mental illnesses
         

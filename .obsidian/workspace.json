@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "file": "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Creation of an Addiction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "file": "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Creation of an Addiction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md",
+                "file": "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Creation of an Addiction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Operators.md"
+                "file": "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Creation of an Addiction.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "36b6b5ab7de06fea",
   "lastOpenFiles": [
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Notation.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/NoSQL.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multiplying Vectors.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multiple Regression.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Multi-Dimensional Arrays.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Mean, Median and Mode.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Mathematical Operators with Tensors.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Lists and Dictionaries.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Join (SQL).md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Introduction to C++.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Intro to regression.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Indentation.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/If Else Statements c++.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/If Else Statements.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Graph Theory.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Graph Definitions.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Functions.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/For Loops and While Loops.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/For Loop.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Extract, transform, load.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data types.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data Integrity.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Data Frames.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Arrays.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Addition of Vectors.md",
-    "Subject-Notes/Computing 7ea553d59d17466486b72f6c826072c1/Accessing Data from Tensors.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Answers.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/Alcohol.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/About this page.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/What is Sound.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/What is Light.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Reflection.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Properties of Waves.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Plane Mirror.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/How does Light Travel.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Different mediums affect light.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Chemistry.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Biology.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Astronomy.md",
+    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Biology 8b1f5a7caef1423094efce3094e43c6b/Microscope-Parts-Diagram.webp",
+    "Subject-Notes/Music ba13e954f26b460fb2ad001839a7afba/Scales, Modes and Keys.md",
+    "Subject-Notes/Music ba13e954f26b460fb2ad001839a7afba/Chords.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Trigonometric Ratios.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/The Quadratic Formula.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/The Discriminant.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Surds.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Substitution.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Solving Quadratic Equations.md",
+    "Subject-Notes/Mathematics 84ce81c228e24346aab59bb063909048/Solving Equations with Logarithms.md",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/How does Light Travel 104b7c5a9ed080bba812f49b62470b2f/image.png",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses 104b7c5a9ed080fc9af8f7e00dc9f42f/image.png",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/How the brain talks c77e64736941466d92eacadc082ffd41/Untitled.png",
@@ -183,7 +184,6 @@
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb/image 1.png",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Reflection 104b7c5a9ed080df895afe7786e4e4c7/image.png",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Properties of Waves 51a10093edce4380a6212f479d732c19/image.png",
-    "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Lenses 104b7c5a9ed080fc9af8f7e00dc9f42f/image 1.png",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/What’s in your sleep e0cf1a9b206d4023bbea5944f15e27a0",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Psychology 7518462e91c34c52a94dd6c0c8f4a83e/How the brain talks c77e64736941466d92eacadc082ffd41",
     "Subject-Notes/Science 153d743319354e65b1b9cbcee367292b/Physics d9237706a6bd41da8386f5685ab15a0d/Refraction a4697b0f24544431b332b91442ef91cb",

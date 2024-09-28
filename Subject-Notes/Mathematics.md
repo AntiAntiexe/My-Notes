@@ -34,42 +34,42 @@
         
     - Algebra
         
-        [Substitution](Mathematics%2084ce81c228e24346aab59bb063909048/Substitution%208461b08a33b64260839bef2dd8a3889b.md)
+        [Substitution](Substitution.md)
         
-        [Adding and Subtracting algebraic Fractions](Mathematics%2084ce81c228e24346aab59bb063909048/Adding%20and%20Subtracting%20algebraic%20Fractions%20e06e35887b064e56a2cb08a32b69be63.md)
+        [Adding and Subtracting algebraic Fractions](Adding%20and%20Subtracting%20algebraic%20Fractions.md)
         
     - Trigonometry
         
-        [Trigonometric Ratios](Mathematics%2084ce81c228e24346aab59bb063909048/Trigonometric%20Ratios%202da389e132984db9ada56a56f57a6f69.md)
+        [Trigonometric Ratios](Trigonometric%20Ratios.md)
         
-        [Angles of Elevation and Depression](Mathematics%2084ce81c228e24346aab59bb063909048/Angles%20of%20Elevation%20and%20Depression%2038a9ea6870b247f29afc9b3a7663d183.md)
+        [Angles of Elevation and Depression](Angles%20of%20Elevation%20and%20Depression.md)
         
-        [Bearings](Mathematics%2084ce81c228e24346aab59bb063909048/Bearings%204f1802d05f454957ac2e395c45586826.md)
+        [Bearings](Bearings.md)
         
     - Quadratics
         
-        [Expanding Algebraic Expressions](Mathematics%2084ce81c228e24346aab59bb063909048/Expanding%20Algebraic%20Expressions%20c71038bc5eec4535be64d706e08cf4b4.md)
+        [Expanding Algebraic Expressions](Expanding%20Algebraic%20Expressions.md)
         
-        [Factorising Expressions with Three Terms](Mathematics%2084ce81c228e24346aab59bb063909048/Factorising%20Expressions%20with%20Three%20Terms%205b36377eff544c6eba7ddc78328136f3.md)
+        [Factorising Expressions with Three Terms](Factorising%20Expressions%20with%20Three%20Terms.md)
         
-        [Factorising Expressions with two or four terms](Mathematics%2084ce81c228e24346aab59bb063909048/Factorising%20Expressions%20with%20two%20or%20four%20terms%209190b2d7700b4248ab912065e2d568fd.md)
+        [Factorising Expressions with two or four terms](Factorising%20Expressions%20with%20two%20or%20four%20terms.md)
         
-        [Factorising by completing the square](Mathematics%2084ce81c228e24346aab59bb063909048/Factorising%20by%20completing%20the%20square%20aaea60f374614ba495823da7b0f0816c.md)
+        [Factorising by completing the square](Factorising%20by%20completing%20the%20square.md)
         
-        [Mixed Factorisation](Mathematics%2084ce81c228e24346aab59bb063909048/Mixed%20Factorisation%20f2e35d8553c84bdda7bfe7e7c82727b7.md)
+        [Mixed Factorisation](Mixed%20Factorisation.md)
         
     - Quadratic Equations
         
-        [Solving Quadratic Equations](Mathematics%2084ce81c228e24346aab59bb063909048/Solving%20Quadratic%20Equations%20ff128997a6c04c9d8cc40d9edd7ba813.md)
+        [Solving Quadratic Equations](Solving%20Quadratic%20Equations.md)
         
-        [The Quadratic Formula](Mathematics%2084ce81c228e24346aab59bb063909048/The%20Quadratic%20Formula%209311f1c4670241468fd7edb8f1f1dfaf.md)
+        [The Quadratic Formula](The%20Quadratic%20Formula.md)
         
-        [Solving Equations Graphically](Mathematics%2084ce81c228e24346aab59bb063909048/Solving%20Equations%20Graphically%20b0c24d3cdd9c4bae8793d449fa0a968a.md)
+        [Solving Equations Graphically](Solving%20Equations%20Graphically.md)
         
-        [The Discriminant](Mathematics%2084ce81c228e24346aab59bb063909048/The%20Discriminant%20d93d844e700743ff9646fb24b0936567.md)
+        [The Discriminant](The%20Discriminant.md)
         
     - Non-linear relationships
         
-        [Plotting Parabolas from a table of values](Mathematics%2084ce81c228e24346aab59bb063909048/Plotting%20Parabolas%20from%20a%20table%20of%20values%20beec7c4137df4855b37a615c0b2567de.md)
+        [Plotting Parabolas from a table of values](Plotting%20Parabolas%20from%20a%20table%20of%20values.md)
         
-        [Sketching Parabolas using Transformations](Mathematics%2084ce81c228e24346aab59bb063909048/Sketching%20Parabolas%20using%20Transformations%2048804baf439843689e7d9fae16cfeaab.md)
+        [Sketching Parabolas using Transformations](Sketching%20Parabolas%20using%20Transformations.md)
