@@ -8,7 +8,7 @@ Neurons work very interestingly to communicate a bigger picture. it is with the 
 
 ### how is a memory formed?
 
-when new information is learned, a memory is usally formed (sometimes can last for ages and sometimes for a few seconds) on a neural level we see more expansion of dentrites (via sprouting) and growth of axon terminalsleading to stonger connections of neurons.
+when new information is learned, a memory is usally formed (sometimes can last for ages and sometimes for a few seconds) on a neural level we see more expansion of dendrites (via sprouting) and growth of axon terminalsleading to stonger connections of neurons.
 
 The
 neurotransmitter glutamate is released and
