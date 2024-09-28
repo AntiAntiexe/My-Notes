@@ -12,7 +12,7 @@
 
 ## What does a Neuron look like?
 
-![Figure 1: *shows a diagram of what a Neuron looks like.*](Subject-Notes/Science/Psychology%207518462e91c34c52a94dd6c0c8f4a83e/How%20the%20brain%20talks%20c77e64736941466d92eacadc082ffd41/Untitled.png)
+![Figure 1: *shows a diagram of what a Neuron looks like.*](Subject-Notes/Science/Psychology/How%20the%20brain%20talks/Untitled.png)
 
 Figure 1: *shows a diagram of what a Neuron looks like.*
 

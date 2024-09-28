@@ -20,7 +20,7 @@
     
     how to find number of protons etc.
     
-    ![Untitled](Subject-Notes/Science/Chemistry%2020bad732b8034b6398ac690090652e70/Untitled.png)
+    ![Untitled](Subject-Notes/Science/Chemistry/Untitled.png)
     
 - how to find the electron shell configuration/ valence electrons
     
@@ -28,7 +28,7 @@
     
     To find the number of valence electrons You can use the periodic table to help you determine how many valence electrons an element (specifically, a neutral atom of the element) has. Look at the group that the element is in, as the group number indicates the number of valence electrons that the element has.
     
-    ![Untitled](Subject-Notes/Science/Chemistry%2020bad732b8034b6398ac690090652e70/Untitled%201.png)
+    ![Untitled](Subject-Notes/Science/Chemistry/Untitled%201.png)
     
 - periodic table
     

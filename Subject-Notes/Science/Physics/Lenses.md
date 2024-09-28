@@ -8,7 +8,7 @@
 - They cause light rays to come together or converge at a focal point.
 - Distance between the focal point and centre of the lens is called the focal length.
 
-![image.png](Subject-Notes/Science/Physics%20d9237706a6bd41da8386f5685ab15a0d/Lenses%20104b7c5a9ed080fc9af8f7e00dc9f42f/image.png)
+![image.png](Subject-Notes/Science/Physics/Lenses/image.png)
 
 - Images created can be:
     - larger or smaller than the objects they represent.
@@ -24,7 +24,7 @@
 - The cayse light to diverge but they appear to the observer as coming from one point (the focal point).
 - The distance from the focal point to the centre of the lens is called the focal length.
 
-![image.png](Subject-Notes/Science/Physics%20d9237706a6bd41da8386f5685ab15a0d/Lenses%20104b7c5a9ed080fc9af8f7e00dc9f42f/image%201.png)
+![image.png](Subject-Notes/Science/Physics/Lenses/image%201.png)
 
 - Images created are:
     - Small
@@ -34,4 +34,4 @@
 
 # Real vs Virtual Images
 
-![image.png](Subject-Notes/Science/Physics%20d9237706a6bd41da8386f5685ab15a0d/Lenses%20104b7c5a9ed080fc9af8f7e00dc9f42f/image%202.png)
+![image.png](Subject-Notes/Science/Physics/Lenses/image%202.png)
